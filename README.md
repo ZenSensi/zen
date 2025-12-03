@@ -3,36 +3,6 @@
 
 A clean and responsive landing page template built with HTML and CSS.
 
-## 🛡️ Badges
-
-![License](https://img.shields.io/github/license/ZenSensi/zen)
-![GitHub stars](https://img.shields.io/github/stars/ZenSensi/zen?style=social)
-![GitHub forks](https://img.shields.io/github/forks/ZenSensi/zen?style=social)
-![GitHub issues](https://img.shields.io/github/issues/ZenSensi/zen)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/ZenSensi/zen)
-![GitHub last commit](https://img.shields.io/github/last-commit/ZenSensi/zen)
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge">
-
-## 📋 Table of Contents
-
-- [About](#about)
-- [Features](#features)
-- [Demo](#demo)
-- [Quick Start](#quick-start)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Configuration](#configuration)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [Testing](#testing)
-- [Deployment](#deployment)
-- [FAQ](#faq)
-- [License](#license)
-- [Support](#support)
-- [Acknowledgments](#acknowledgments)
-
 ## About
 
 Zen is a simple, elegant, and responsive landing page template designed to provide a clean and modern look for your project or business. Built with HTML and CSS, it's easy to customize and deploy. It aims to provide a solid foundation for anyone looking to quickly create a professional-looking online presence without the complexities of larger frameworks.
